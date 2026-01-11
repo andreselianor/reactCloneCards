@@ -57,6 +57,51 @@ Uso de imágenes y recursos locales integrados al proyecto, entendiendo cómo se
 
 ---
 
+---
+
+## 💻 Instalación y ejecución del proyecto
+
+Para ejecutar este proyecto en tu ordenador local es necesario tener instalado **Node.js** (versión recomendada: LTS).
+Sigue estos pasos:
+
+1. **Clona el repositorio desde GitHub**
+
+   ```bash
+   git clone https://github.com/andreselianor/reactCloneCards.git
+   ```
+
+2. **Accede a la carpeta del proyecto**
+
+   ```bash
+   cd [tucarpeta]
+   ```
+
+3. **Instala las dependencias**
+
+   Esto descargará todas las librerías necesarias para que el proyecto funcione correctamente.
+
+   ```bash
+   npm install
+   ```
+
+4. **Inicia el servidor de desarrollo**
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Abre el proyecto en el navegador**
+
+   Vite mostrará en la consola una dirección local (normalmente):
+
+   ```
+   http://localhost:5173
+   ```
+
+   Abre esa URL en tu navegador para ver el proyecto en funcionamiento.
+
+---
+
 ## 🌱 Filosofía de aprendizaje
 
 Este proyecto forma parte de una filosofía de **aprendizaje continuo mediante herramientas de IA**:
