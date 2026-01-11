@@ -79,5 +79,5 @@ La idea es que, a medida que estos fundamentos se consoliden, sea posible aborda
 Este repositorio representa **mi primer paso con React como diseñador de interfaces basadas en componentes interactivos.**.  
 No busca ser perfecto, y le doy el uso de punto de inicio de referencia para ver mi evolución como estudiante, coder y desarrollador.
 
-📚 Durante el proyecto he utilizado las **Inteligencias Artificales** en la consulta de sintaxis, gestión de los ficheros y carpetas del proyecto y la revisión de los errores de compilación. Pienso que es adecuado utilizar las IA's en funciones de desarrollo de código fuente, tal y como un **diccionario es útil para aprender la gramática de un lenguaje**,esto es, un diccionario de bibliotecas de programación. 
+📚 Durante el proyecto he utilizado las **Inteligencias Artificales** en la consulta de sintaxis, gestión de los ficheros y carpetas del proyecto y la revisión de los errores de compilación. Pienso que es adecuado utilizar las IA's en funciones de desarrollo de código fuente, tal y como un **diccionario es útil para aprender la gramática de un lenguaje**, esto es, un diccionario de bibliotecas de programación. 
 
