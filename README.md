@@ -3,8 +3,7 @@
 
 # 📘 Primer Proyecto con React
 
-Este repositorio contiene mi **primer proyecto desarrollado con React**, realizado como parte de mi formación académica dentro del bootcamp de F5.  
-Es mi primer acercamiento práctico a esta biblioteca y representa el inicio de mi camino en el desarrollo de aplicaciones web modernas.
+Este repositorio contiene mi **primer proyecto desarrollado con React**, realizado como parte de mi formación académica dentro del bootcamp de F5. Es mi primer acercamiento práctico a esta biblioteca y representa el inicio de mi camino en el desarrollo de aplicaciones web modernas.
 
 El objetivo principal de este proyecto no es solo el resultado final, sino **el proceso de aprendizaje** detrás de cada componente, cada archivo y cada decisión tomada.
 
@@ -61,7 +60,6 @@ Uso de imágenes y recursos locales integrados al proyecto, entendiendo cómo se
 ## 🌱 Filosofía de aprendizaje
 
 Este proyecto forma parte de una filosofía de **aprendizaje continuo mediante herramientas de IA**:
-
 - Empezar con proyectos pequeños y manejables.
 - Comprender bien las bases antes de avanzar.
 - Construir conocimiento paso a paso.
